@@ -1,7 +1,7 @@
 ---
 title: "Formação de equipe"
-authors: Gabriel Escramin
-  - name: Bielziin07
+authors:
+  - Gabriel: Bielziin07
 tags: [formacao-equipe]
 date: 2026-09-22
 ---
